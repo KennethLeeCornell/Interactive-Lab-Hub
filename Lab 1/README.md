@@ -178,9 +178,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
-One big concern is making sure the device looks nice sitting next to a bed. A clean and calming environment is crucial to good sleep, and the design of the device should reflect that. Also, a device that fits in well is more likely to be kept out and actually used.
-
-### We want to make the look of our device appealing to any user and friendly looking
+### One big concern is making sure the device looks nice sitting next to a bed. A clean and calming environment is crucial to good sleep, and the design of the device should reflect that. Also, a device that fits in well is more likely to be kept out and actually used.
 
 ## Part F. Record
 
