@@ -162,19 +162,19 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+
+![Costumes 1](https://i.imgur.com/vCk6LP4.jpeg)
+![Costumes 1](https://i.imgur.com/U995PJ0.jpeg)
+![Costumes 1](https://i.imgur.com/UYvG2ot.jpeg)
+![Costumes 1](https://i.imgur.com/44VHKEU.jpeg)
+
 ![creating costumes](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/29b4da0f-3026-46e9-baf6-0c331dceb64d)
-
-![creating costumes 2](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/fcf135ad-a4bb-48d4-a1fd-5b81d29ae0dd)
-
-![creating costumes 3](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/4055a91e-fc26-44cc-8d63-76278c7ec3aa)
 
 ![Device](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/749997ba-7928-4cc5-87c8-893ba435c9c7)
 
-![costume 1](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/daaabafe-1e75-4547-8e74-21921694f0cb)
-
-![costume 2](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/2e7c2f26-39db-4036-817d-ede00d406958)
-
-![costume 3](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/ad0158ff-507f-4f22-86fc-39c8b8b7cef2)
+![Costumes 1](https://i.imgur.com/THe3EPm.jpeg)
+![Costumes 1](https://i.imgur.com/2PaoUVp.jpeg)
+![Costumes 1](https://i.imgur.com/WoTVH0f.jpeg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
