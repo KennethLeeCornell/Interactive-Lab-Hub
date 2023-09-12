@@ -171,6 +171,8 @@ You can look in `image.py` for an example of how to display an image on the scre
 ### Set up the Display Clock Demo
 Work on `screen_clock.py`, try to show the time by filling in the while loop (at the bottom of the script where we noted "TODO" for you). You can use the code in `cli_clock.py` and `stats.py` to figure this out.
 
+![alt text](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%202/images/lab2aPartD.jpg)
+
 ### How to Edit Scripts on Pi
 Option 1. One of the ways for you to edit scripts on Pi through terminal is using [`nano`](https://linuxize.com/post/how-to-use-nano-text-editor/) command. You can go into the `screen_clock.py` by typing the follow command line:
 ```
@@ -200,6 +202,8 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
 
+![alt text](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%202/images/lab2aPartE.jpg)
+
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
 
@@ -220,9 +224,11 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+[YouTube Video of our PiClock](https://www.youtube.com/watch?v=xxyKwtn9TNY)
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![alt text](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%202/images/lab2aPartG.jpg)
 
 
 # Prep for Part 2
