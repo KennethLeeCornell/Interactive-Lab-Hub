@@ -1,5 +1,5 @@
 # Interactive Prototyping: The Clock of Pi
-**NAMES OF COLLABORATORS HERE**
+**Kenneth Lee (kml343), Gloria Hu (rh692), Yifan Yu (yy2253)**
 
 Does it feel like time is moving strangely during this semester?
 
