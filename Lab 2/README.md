@@ -237,6 +237,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
   
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
+Michael: I thought the interaction was really well done, and the amount of toggling between different units of time really impressed me. Maybe for a future feature, marking future dates could be useful in a “calendar” type of function.
 
 # Lab 2 Part 2
 
