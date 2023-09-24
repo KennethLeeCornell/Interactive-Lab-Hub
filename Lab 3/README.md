@@ -67,7 +67,7 @@ Typically, a `.sh` file is a shell script which you can execute in a terminal. T
 You can also play audio files directly with `aplay filename`. Try typing `aplay lookdave.wav`.
 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
-(This shell file should be saved to your own repo for this lab.)
+The shell file is called "greeting.sh"
 
 ---
 Bonus:
@@ -109,6 +109,11 @@ python test_microphone.py -m en
 ```
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
+This part was very difficult for me to figure out because when first created the sh file that uses ">" to print the "test_microphone.py" output to a text file. However, for some reason this causes the python file to not print out what the user says in the terminal anymore, so the text file stays empty. Instead, I had to first pipe the output to another python file called "handle_test_microphone.py" and then use that to output the result to the "numerical_input.txt" text file.
+
+Shell file: numerical_input.sh
+Helper python file: handle_test_microphone.py
+Output text file: numerical_input.txt
 
 
 ### Serving Pages
