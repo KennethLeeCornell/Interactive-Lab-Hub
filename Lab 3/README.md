@@ -140,15 +140,46 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+![1](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/e0e50998-942e-4427-bf0d-c26df9358c00)
+![2](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/2bbb2807-09bc-4dbe-82fd-1c60b62831eb)
+![3](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/a62e9ada-f8e4-4a7e-bee5-9685c92c93f3)
+![4](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/05e0b538-0522-4435-bea4-06b67fcca294)
+
+
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+
+# The Script:
+
+Gil: Todavía estás trabajando en tu tarea? 
+
+Random Person: (probably) huh? 
+
+Device: Are you still working on your hw? 
+
+Random Person: whatever they say
+
+Gil: Buena suerte en tu tarea, espero que la termines pronto!
+
+Device: Good luck on your hw, I hope you finish it soon!
+
+Random Person: Thank you! 
+
+End Scene
+
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+### The dialogue seemed different than what we imagined when it was acted out due to the fact that we didn't know at what time should the device react and translate the phrase. 
+
+# The Video:
+
+https://github.com/yifanwow/Interactive-Lab-Hub/assets/64716158/0ced3de5-02f3-4889-9c5f-34baffc9b386
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
