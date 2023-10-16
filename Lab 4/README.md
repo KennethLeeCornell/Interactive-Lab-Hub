@@ -279,6 +279,10 @@ Build a cardboard prototype of your design.
 We built a cardboard device that holds our sensors for the "bop it" game. We wanted the sensors to be located reasonably far from each other, and spaced out quite evenly as the device the user interacts with will be randomized. We also made them all very accessible and not one task was harder to accomplish than the others. This is because we don't want one action such as "flick it!" to be a bottleneck for the game, where the user seemingly always loses because it is harder. The device overall is a size where it can be fit onto a desk and can be realistically held in your hand, as it is a device to be played by a player. Each component should also be visibily seen, so the user can easily find and interact with the components.
 
 **\*\*\*Document your rough prototype.\*\*\***
+![unnamed](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/assets/143122178/edb67729-3880-4b8c-adbc-93ecdfa14c84)
+![unnamed](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/assets/143122178/0c1dbfea-f35c-416e-a976-afb0630b5096)
+![unnamed](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/assets/143122178/1cf2e616-5c77-41ed-8a03-b0a3ad38dc14)
+
 For our joystick, we simply attatched it to a jutt-out in our box and had it pointint up to be easily flicked.
 
 For our button, it was more complex. We had created a circular cardboard platform to act as the pad to be pressed, and attatched it to the capacitor through a spring of tape. This way, when you press down, the tape will compress and the cardboard pad presses against the capacitor. This is an important mechanism because we also attach copper tape to the bottom of our pad, and the top of the capacitor. So when you press down, the copper tape connects with each other, creating a connected current from your hand to the capacitor, activating the component.
