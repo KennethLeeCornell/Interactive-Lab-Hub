@@ -1,7 +1,8 @@
 # Observant Systems
 
-## Gilberto Ruiz, Ben Setel, Gloria Hu, Kenneth Lee
+**NAMES OF COLLABORATORS HERE**
 
+Gilberto Ruiz, Ben Setel, Gloria Hu, Kenneth Lee
 
 For lab this week, we focus on creating interactive systems that can detect and respond to events or stimuli in the environment of the Pi, like the Boat Detector we mentioned in lecture. 
 Your **observant device** could, for example, count items, find objects, recognize an event or continuously monitor a room.
@@ -217,4 +218,3 @@ Following exploration and reflection from Part 1, finish building your interacti
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
 
 [https://youtu.be/VkkK0bF_nbA]
-

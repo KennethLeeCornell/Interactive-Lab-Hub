@@ -45,6 +45,8 @@ This README.md page in your own repository should be edited to include the work 
 ## Lab Overview
 For this assignment, you are going to:
 
+Lab 1a:
+
 A) [Plan](#part-a-plan) 
 
 B) [Act out the interaction](#part-b-act-out-the-interaction) 
@@ -56,6 +58,24 @@ D) [Wizard the device](#part-d-wizard-the-device)
 E) [Costume the device](#part-e-costume-the-device)
 
 F) [Record the interaction](#part-f-record)
+
+Lab 1b:
+
+[Staging Interaction](#staging-interaction-part-2)
+
+A) [Plan 1b](#part-a-plan-1b) 
+
+B) [Act out the interaction 1b](#part-b-act-out-the-interaction-1b)
+
+C) [Prototype the device](#part-c-prototype-the-device-1b)
+
+D) [Wizard the device](#part-d-wizard-the-device-1b) 
+
+E) [Costume the device](#part-e-costume-the-device-1b)
+
+F) [Record the interaction](#part-f-record-1b)
+
+
 
 Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
 
@@ -85,9 +105,11 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
+
 ![1](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/43d09269-bb73-43a1-89d4-172675aba357)
 
 ![2](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/d3732ba6-e725-4582-a2fa-e03845578bbd)
+
 
 
 
@@ -162,23 +184,23 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
-
-![Costumes 1](https://i.imgur.com/vCk6LP4.jpeg)
-![Costumes 1](https://i.imgur.com/U995PJ0.jpeg)
-![Costumes 1](https://i.imgur.com/UYvG2ot.jpeg)
-![Costumes 1](https://i.imgur.com/44VHKEU.jpeg)
-
 ![creating costumes](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/29b4da0f-3026-46e9-baf6-0c331dceb64d)
+
+![creating costumes 2](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/fcf135ad-a4bb-48d4-a1fd-5b81d29ae0dd)
+
+![creating costumes 3](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/4055a91e-fc26-44cc-8d63-76278c7ec3aa)
 
 ![Device](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/749997ba-7928-4cc5-87c8-893ba435c9c7)
 
-![Costumes 1](https://i.imgur.com/THe3EPm.jpeg)
-![Costumes 1](https://i.imgur.com/2PaoUVp.jpeg)
-![Costumes 1](https://i.imgur.com/WoTVH0f.jpeg)
+![costume 1](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/daaabafe-1e75-4547-8e74-21921694f0cb)
+
+![costume 2](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/2e7c2f26-39db-4036-817d-ede00d406958)
+
+![costume 3](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/ad0158ff-507f-4f22-86fc-39c8b8b7cef2)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
-### One big concern is making sure the device looks nice sitting next to a bed. A clean and calming environment is crucial to good sleep, and the design of the device should reflect that. Also, a device that fits in well is more likely to be kept out and actually used.
+### One big concern is making sure the device looks nice sitting next to a bed. A clean and calming environment is crucial to good sleep, and the design of the device should reflect that. Also, a device that fits in well is more likely to be kept out and actually used.”
 
 ## Part F. Record
 
@@ -297,3 +319,5 @@ Do last week’s assignment again, but this time:
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 ## Yifan Yu (yy2253), Michael Hanlon (mph99), Gloria Hu (rh692), Kenneth Lee (kml343), and Ben Setel (bs836)
+
+

@@ -1,5 +1,9 @@
 # Chatterboxes
-**Kenneth Lee, Gilberto Ruiz, Ben Setel, Gloria Hu, Yifan Yu, Michael Hanlon**
+**NAMES OF COLLABORATORS HERE:**
+
+Gilberto Ruiz, Kenneth Lee, Ben Setel, Gloria Hu, Michael Hanlon, Yifan Yu
+
+# Chatterbox video example
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -67,7 +71,9 @@ Typically, a `.sh` file is a shell script which you can execute in a terminal. T
 You can also play audio files directly with `aplay filename`. Try typing `aplay lookdave.wav`.
 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
-The shell file is called "greeting.sh"
+(This shell file should be saved to your own repo for this lab.)
+
+### The shell file that asks for my name is called lab3pt1.sh and it uses the Festival TTS engine
 
 ---
 Bonus:
@@ -109,11 +115,8 @@ python test_microphone.py -m en
 ```
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
-This part was very difficult for me to figure out because when first created the sh file that uses ">" to print the "test_microphone.py" output to a text file. However, for some reason this causes the python file to not print out what the user says in the terminal anymore, so the text file stays empty. Instead, I had to first pipe the output to another python file called "handle_test_microphone.py" and then use that to output the result to the "numerical_input.txt" text file.
 
-Shell file: numerical_input.sh
-Helper python file: handle_test_microphone.py
-Output text file: numerical_input.txt
+### The shell that does this is called lab3pt1B.sh and its a script that asks the user how many pets it has, records it and prints it on the terminal and the text file called lab3pt1B.txt
 
 
 ### Serving Pages
@@ -179,12 +182,14 @@ Find a partner, and *without sharing the script with your partner* try out the d
 
 # The Video:
 
-https://github.com/yifanwow/Interactive-Lab-Hub/assets/64716158/0ced3de5-02f3-4889-9c5f-34baffc9b386
+https://github.com/yifanwow/Interactive-Lab-Hub/assets/64716158/0ced3de5-02f3-4889-9c5f-34baffc9b386 
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
 
 \*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
+
+
 
 # Lab 3 Part 2
 
@@ -205,15 +210,16 @@ The system should:
 
 *Document how the system works*
 
-Using festival, the device speaks to the user, asking them to say its activation phase. Using vosk, it then listens for this phrase. Once it hears the phrase, it launches the "color_changer" program. This time it asks the user to say a color. When the user says a color, the program changes the screen to that color. If the user says "party", it cycles colors and plays a song. 
+Using festival, the device speaks to the user, asking them to say its activation phase. Using vosk, it then listens for this phrase. Once it hears the phrase, it launches the "color_changer" program. This time it asks the user to say a color. When the user says a color, the program changes the screen to that color. If the user says "party", it cycles colors and plays a song.
 
-![alt text](https://github.com/bensetel/Interactive-Lab-Hub/blob/Fall2023/Lab%203/Lab%203%20Part%20Two.png)
-![alt text](https://github.com/bensetel/Interactive-Lab-Hub/blob/Fall2023/Lab%203/Lab%203%20Part%20Two%20(2).png)
+![image](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/64db60bd-55e3-4641-b671-9b91733aa3fb)
 
+![image](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/8e5237bc-52b7-4929-a9f8-4064de5421ef)
 
-*Include videos or screencaptures of both the system and the controller.*
+Include videos or screencaptures of both the system and the controller.
 
-https://github.com/yifanwow/Interactive-Lab-Hub/assets/64716158/38ef1163-de09-4bc0-827f-04d8e8955a1c
+https://user-images.githubusercontent.com/64716158/272119876-38ef1163-de09-4bc0-827f-04d8e8955a1c.mp4 
+
 
 
 ## Test the system
@@ -221,23 +227,20 @@ Try to get at least two people to interact with your system. (Ideally, you would
 
 Answer the following:
 
-Question: What worked well about the system and what didn't?
+### Question: What worked well about the system and what didn't?
 
-Answer:
-***The system exhibited proficiency in its color-changing mechanism, demonstrating seamless transitions. Additionally, the text-to-speech component effectively prompted users for their input. However, the speech-to-text functionality displayed significant limitations. Specifically, it often encountered challenges in accurately recognizing and interpreting spoken words.*** 
+Answer: **The system exhibited proficiency in its color-changing mechanism, demonstrating seamless transitions. Additionally, the text-to-speech component effectively prompted users for their input. However, the speech-to-text functionality displayed significant limitations. Specifically, it often encountered challenges in accurately recognizing and interpreting spoken words.**
 
-Question: What worked well about the controller and what didn't?
+### Question: What worked well about the controller and what didn't?
 
-Answer:
-***The controller's programming successfully rendered colors on the display, ensuring a vibrant user experience. However, the earlier mentioned deficiencies in the speech-to-text component extended to the controller, making the system's overall control less intuitive and at times challenging.*** 
+Answer: **The controller's programming successfully rendered colors on the display, ensuring a vibrant user experience. However, the earlier mentioned deficiencies in the speech-to-text component extended to the controller, making the system's overall control less intuitive and at times challenging.**
 
-Question: What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
+### Question: What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-Answer:
-***Drawing from the Wizard of Oz (WoZ) interactions, there are several insights that can guide the design of a more autonomous iteration. One possibility is leveraging the video input from the camera to gauge ambient light conditions, subsequently adjusting screen colors for optimal visibility. Furthermore, the system could be designed to autonomously cycle through an array of colors or even utilize the text-to-speech output to generate corresponding speech-to-text inputs, essentially enabling the system to "converse" with itself.*** 
+Answer: **Drawing from the Wizard of Oz (WoZ) interactions, there are several insights that can guide the design of a more autonomous iteration. One possibility is leveraging the video input from the camera to gauge ambient light conditions, subsequently adjusting screen colors for optimal visibility. Furthermore, the system could be designed to autonomously cycle through an array of colors or even utilize the text-to-speech output to generate corresponding speech-to-text inputs, essentially enabling the system to "converse" with itself.**
 
-Question: How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-Answer:
-***To curate a dataset of interactions, the system can be programmed to record user engagements. The incorporation of video and audio capturing capabilities, particularly through a webcam, would be instrumental in this endeavor. Additionally, the stored speech-to-text inputs can be systematically analyzed, leading to the creation of a comprehensive database spotlighting the most frequently used keywords. Beyond these, integrating video analytics can offer richer data. Another avenue worth exploring is the introduction of self-generated auditory cues, which could further enrich the interaction dataset.*** 
+### Question: How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
+
+Answer: **To curate a dataset of interactions, the system can be programmed to record user engagements. The incorporation of video and audio capturing capabilities, particularly through a webcam, would be instrumental in this endeavor. Additionally, the stored speech-to-text inputs can be systematically analyzed, leading to the creation of a comprehensive database spotlighting the most frequently used keywords. Beyond these, integrating video analytics can offer richer data. Another avenue worth exploring is the introduction of self-generated auditory cues, which could further enrich the interaction dataset.**
 

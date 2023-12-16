@@ -1,5 +1,7 @@
 # Interactive Prototyping: The Clock of Pi
-**Kenneth Lee (kml343), Gloria Hu (rh692), Yifan Yu (yy2253)**
+**NAMES OF COLLABORATORS HERE**
+
+Gilberto Ruiz, Kenneth Lee, Ben Setel, Gloria Hu, Yifan Yu
 
 Does it feel like time is moving strangely during this semester?
 
@@ -171,8 +173,6 @@ You can look in `image.py` for an example of how to display an image on the scre
 ### Set up the Display Clock Demo
 Work on `screen_clock.py`, try to show the time by filling in the while loop (at the bottom of the script where we noted "TODO" for you). You can use the code in `cli_clock.py` and `stats.py` to figure this out.
 
-![alt text](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%202/images/lab2aPartD.jpg)
-
 ### How to Edit Scripts on Pi
 Option 1. One of the ways for you to edit scripts on Pi through terminal is using [`nano`](https://linuxize.com/post/how-to-use-nano-text-editor/) command. You can go into the `screen_clock.py` by typing the follow command line:
 ```
@@ -193,6 +193,11 @@ Option 3. A nowadays often preferred method is to use Microsoft [VS code to remo
 
 Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/latest) you can even setup a VS Code coding environment hosted on your raspberry pi and code through a web browser on your tablet or smartphone! 
 
+### My Finished screen_clock.py
+
+![EditedCode](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/95266537-3c99-4383-b681-7405789a7bb8)
+
+
 ## Part E.
 ### Modify the barebones clock to make it your own
 
@@ -201,8 +206,6 @@ Does time have to be linear?  How do you measure a year? [In daylights? In midni
 Can you make time interactive? You can look in `screen_test.py` for examples for how to use the buttons.
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
-
-![alt text](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%202/images/lab2aPartE.jpg)
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
@@ -219,16 +222,32 @@ After you edit and work on the scripts for Lab 2, the files should be upload bac
 
 After that, Git will ask you to login to your GitHub account to push the updates online, you will be asked to provide your GitHub user name and password. Remember to use the "Personal Access Tokens" you set up in Part A as the password instead of your account one! Go on your GitHub repo with your laptop, you should be able to see the updated files from your Pi!
 
+### Diagram to brainstorm idea
+
+![IdeaDiagram](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/41970a0a-a168-4148-887e-4f08631677b0)
+
+### First Sketch of the mofified barebons PiClock
+
+![FirstSketch](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/16ca8020-64ae-48ee-af44-c21940fcaf65)
+
+
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
-[YouTube Video of our PiClock](https://www.youtube.com/watch?v=xxyKwtn9TNY)
+
+### With my code, I implemented three horizontal bars that represents time. The golden bar symbolizes the hours, the silver bar symbolizes minutes and the copper one symbolizes seconds. In addition to adding three bars that changes as time goes on, I implemented the use of the two buttons on the display. If the top button is pressed, the background turns white and the written time in text turns black. If the bottom one is pressed, then the screen turns red. And lastly, if both buttons are pressed, then the background turns light blue. The video below will show the description I just provided. 
+
+[https://drive.google.com/file/d/1XjMjgLvmMoaEpzAQm_QPulCjKu4YxxJ9/view?usp=sharing]
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
-![alt text](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%202/images/lab2aPartG.jpg)
+
+### My Idea: 
+
+![BrainstormingPt2](https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/7ea5bcf5-998c-4c9d-aed5-73f334b34053)
+
 
 
 # Prep for Part 2
@@ -237,7 +256,28 @@ After that, Git will ask you to login to your GitHub account to push the updates
   
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
-Michael: I thought the interaction was really well done, and the amount of toggling between different units of time really impressed me. Maybe for a future feature, marking future dates could be useful in a “calendar” type of function.
+
+
+# Feedback
+
+### Before beginning with part 2, I would like to post the overall feedback from my cohort about the previous part of Lab 2
+### The overall feedback was the following
+
+### Zack: 
+Unique visual representation of time and good color contrast. Also liked that colors changeable from buttons, but perhaps it should hold the state instead of needing to be held down each time  
+
+### Benjamin: 
+Thought the bars were cool - would be fun to be able to change their colors too, and maybe like play with the increments they measure (like second bar changes to every 2,5,10 seconds w/e)
+
+### Gloria: 
+I really like the color of your bars and I love the interaction of changing the backgrounds. It’s clear to understand different button effects and I’m interested in how you implement more features in the future. Nice work! The video demo was very straightforward, too!
+
+### Kenneth: 
+I really liked the visual representation of having bars to represent time intervals! One thing I would say is the interactions seem pretty simple (changing the background colors based off button clicking)
+
+### Yifan: 
+I love the time you put into your designs, your sketches are very detailed and I look forward to seeing what you follow up with!
+
 
 # Lab 2 Part 2
 
@@ -248,6 +288,7 @@ Modify the code from last week's lab to make a new visual interface for your new
 As always, make sure you document contributions and ideas from others explicitly in your writeup.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
+
 
 # Interactive Prototyping: The Game of Pi
 
@@ -290,26 +331,29 @@ After successfully evading all asteroids for the entire two minutes, the player 
 # Part G.
 # Make a short video of your modified barebones PiClock
 
-# Losing Example
+# Lose Example
 In this situation, you're playing the game and crashed on one of the projectiles
 
-https://github.com/yifanwow/Interactive-Lab-Hub/assets/64716158/528a91d1-b081-41d4-b21c-2940914f6475
+
+[https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/d3c1ee89-e07d-4aa8-b963-d16c2074a892]
+
 
 
 # Win Example
 In this situation, if you've survived for a minute, then you will score a point and the projectiles will move faster and change color
 
-https://github.com/yifanwow/Interactive-Lab-Hub/assets/64716158/1bf0e399-89ff-43eb-92d3-e120ceaaadcb
 
-[https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/ef73f220-5a90-4f48-8a5d-2b64557ce2cb]
+[https://github.com/Ruiznogueras05CT/Interactive-Lab-Hub/assets/142849822/fb7b31d0-d87c-4690-89d7-0430584570cd]
 
-# Code for game implementation in `game_test.py`
-To run the game code, box2d-py must be set up with Conda: 
-1) Download conda: wget https://github.com/conda-forge/miniforge/releases/download/23.3.1-1/Mambaforge-23.3.1-1-Linux-aarch64.sh
-2) Make executable: chmod -v +x Mambaforge*.sh
-3) Install conda: ./Mambaforge-23.3.1-1-Linux-aarch64.sh
-4) Make conda environment with Box2D: conda create -n pybox2d -c conda-forge python=3.9 box2d-py
-5) Activate conda environment: conda activate pybox2d
-6) Install lab 2 requirements in conda environment: pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
 
 
