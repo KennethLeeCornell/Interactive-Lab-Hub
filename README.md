@@ -3,17 +3,17 @@ for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Design
 
 Please place links here to the README.md's for each of your labs here:
 
-[Lab 1. Staging Interaction](Lab%201/)
+[Lab 1. Staging Interaction](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%201/README.md)
 
-[Lab 2. Interactive Prototyping: The Clock of Pi](Lab%202/)
+[Lab 2. Interactive Prototyping: The Clock of Pi](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%202/README.md)
 
-[Lab 3. Chatterboxes](Lab%203/)
+[Lab 3. Chatterboxes](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%203/README.md)
 
-[Lab 4. Ph-UI!!!](Lab%204/)
+[Lab 4. Ph-UI!!!](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%204/README.md)
 
-[Lab 5. Observant Systems](Lab%205/)
+[Lab 5. Observant Systems](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%205/README.md)
 
-[Lab 6. Little Interactions Everywhere](Lab%206/)
+[Lab 6. Little Interactions Everywhere](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Lab%206/README.md)
 
 [Final Project](https://github.com/KennethLeeCornell/Interactive-Lab-Hub/blob/Fall2023/Final%20Project/README.md)
 
